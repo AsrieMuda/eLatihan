@@ -1,0 +1,22 @@
+{
+  "name": "e-Latihan BKKM - Sistem Pengurusan Kursus Anggota",
+  "short_name": "e-Latihan",
+  "description": "Progressive Web App Pengurusan Rekod Kursus & Latihan Anggota BKKM",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/0f766e/ffffff.png?text=e-Latihan",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/0f766e/ffffff.png?text=e-Latihan",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
